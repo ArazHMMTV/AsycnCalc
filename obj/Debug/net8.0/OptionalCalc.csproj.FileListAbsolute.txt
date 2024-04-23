@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\bin\Debug\net8.0\OptionalCalc.exe
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\bin\Debug\net8.0\OptionalCalc.deps.json
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\bin\Debug\net8.0\OptionalCalc.runtimeconfig.json
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\bin\Debug\net8.0\OptionalCalc.dll
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\bin\Debug\net8.0\OptionalCalc.pdb
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\OptionalCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\OptionalCalc.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\OptionalCalc.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\OptionalCalc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\OptionalCalc.sourcelink.json
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\OptionalCalc.dll
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\refint\OptionalCalc.dll
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\OptionalCalc.pdb
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\OptionalCalc.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Casting\OptionalCalc\obj\Debug\net8.0\ref\OptionalCalc.dll
